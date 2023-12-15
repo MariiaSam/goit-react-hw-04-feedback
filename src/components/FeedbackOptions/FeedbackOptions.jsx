@@ -12,6 +12,7 @@ export const FeedbackOptions = ({ options, onLeaveFeedback }) => {
         return (
           <FeedBaclList key={option}>
             <FeedbackBtn
+            key={option}
               type="button"
               value={idx}
               children={option}

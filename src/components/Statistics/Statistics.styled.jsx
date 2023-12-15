@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const StatisticWrap = styled.ul`
-  background-color: #adbfbd;
+  background-color: #cfeb62;;
   box-shadow: rgba(209, 138, 138, 0.24) 0px 3px 8px;
 
   gap: 8px;
@@ -22,5 +22,5 @@ export const StatisticDescription = styled.p`
   
   font-size: 24px;
   font-weight: bold;
-  color: #374f21;
+  color: #008080;;
 `
