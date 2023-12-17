@@ -15,7 +15,7 @@ const App = () => {
       case 'good':
         setGood(prev => prev + 1);
         break;
-      case 'neutralood':
+      case 'neutral':
         setNeutral(prev => prev + 1);
         break;
       case 'bad':
